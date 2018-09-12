@@ -4,11 +4,16 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal() {
+Hi Larry, 
+
+I'm visiting Boulder from the UK with my family. My sister and her family will join us from Los Angeles. Your house looks great! Can you confirm availability?
+
+Thanks. 
+
+Virginiafunction yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  var yourAnimal = 'cat';
   return youranimal
 }
 
