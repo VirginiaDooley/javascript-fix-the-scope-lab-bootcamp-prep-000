@@ -1,8 +1,10 @@
 var animal = 'dog'
 
 function myAnimal() {
-  return myAnimal;
+  return animal;
 }
+
+var yourAnimal
 
 function yourAnimal() {
   // How can we make sure that this function
